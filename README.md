@@ -1,4 +1,4 @@
-# 🤖 ML Practice — My Machine Learning Learning Journey
+# 🤖 ML Practice — My Machine Learning Journey
 
 Welcome to my **Machine Learning practice repository!**  
 Here I document everything I learn while working with **Python, Data Science, and Machine Learning** — using real datasets, Jupyter notebooks, and different ML models.
