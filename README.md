@@ -10,17 +10,21 @@ I experiment → observe → improve → repeat 🚀
 
 ## 📂 Repository Structure
 
+## 📂 Repository Structure
+
+```text
 machine-learning-notebooks/
 │
-├── data/ → CSV datasets used in projects
-├── images/ → Input & output images
-├── model/ → Saved ML models (.pkl)
-├── numpy/ → NumPy practice notebooks
-├── pandas/ → Data analysis notebooks
-├── matplotlib/ → Data visualization notebooks
-├── scikit-learn/ → ML model notebooks
+├── data/                # CSV datasets used in projects
+├── images/              # Input & output images
+├── model/               # Saved ML models (.pkl)
+│
+├── numpy/               # NumPy practice notebooks
+├── pandas/              # Data analysis notebooks
+├── matplotlib/          # Data visualization notebooks
+├── scikit-learn/        # ML model notebooks
+│
 └── README.md
-
 
 ---
 
