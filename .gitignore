@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pkl
+*.h5
+*.pt
+*.joblib
+*.sav
+.DS_Store
+*.log
