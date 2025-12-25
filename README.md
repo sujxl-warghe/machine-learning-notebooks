@@ -10,8 +10,6 @@ I experiment → observe → improve → repeat 🚀
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 ```text
 machine-learning-notebooks/
 │
@@ -25,8 +23,7 @@ machine-learning-notebooks/
 ├── scikit-learn/        # ML model notebooks
 │
 └── README.md
-
----
+```
 
 ## 📘 Topics I’m Practicing
 
